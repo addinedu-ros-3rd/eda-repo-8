@@ -45,12 +45,12 @@ password =
 database = 
 ```
 - 파일 생성 후, 2가지 방법 중 택1
-    - 1. src/00_01.create_table.ipynb 실행
-      2. yun_project.sql 파일(mysqldump) 사용
-        - 덮어쓸 새 데이터베이스에 접속 후
-        ```
-        source yun_project.sql
-        ```
+  1. src/00_01.create_table.ipynb 실행
+  2. yun_project.sql 파일(mysqldump) 사용
+      - 덮어쓸 새 데이터베이스에 접속 후
+      ```
+      source yun_project.sql
+      ```
 - 파일명이나 경로, 형식을 수정하고 싶다면 코드의 이 부분을 참고해 주세요. (ipynb 파일의 최상단, import 아랫부분에 있습니다.)
 ```
 config = configparser.ConfigParser()
