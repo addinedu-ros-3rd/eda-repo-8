@@ -5,8 +5,8 @@
 - RDB: mysql(AWS RDS)
 - 분석: matplotlib, pandas, seaborn, numpy, scipy
 
-## 발표자료
-https://docs.google.com/presentation/d/1hABXeKkpYN_hCG8XYs-6Jznr-U8220AZZT0lpReLpHU/edit?usp=sharing
+## 미리보기
+![pdf_as_image] (https://drive.google.com/file/d/1ne7rtCE77A0I35rfIsl-0_Up6z90QBRb/view?usp=drive_link)
 
 ### 실행하기 전에
 - 라이브러리 설치
