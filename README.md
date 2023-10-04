@@ -4,6 +4,8 @@
 - 지역별 가구 특성과 생활 폐기물 발생 양상의 상관관계가 있는지, 있다면 얼마나 있는지 확인하고자 했습니다.
 
 ## 분석 도구
+![image](https://github.com/addinedu-amr-4th/eda-repo-8/assets/86283716/138ece22-141e-4e29-ab7a-f0006e0b90da)
+
 - 언어: Python
 - RDB: mysql(AWS RDS)
 - 라이브러리: matplotlib, pandas, seaborn, numpy, scipy
