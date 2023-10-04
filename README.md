@@ -1,13 +1,23 @@
 # 지역별 생활폐기물 현황 분석
 <br>
 
+## 프로젝트 기간
+- 2023.09.06 ~ 2023.09.12 (7일)
+<br>
+
+## 팀 구성
+- 1인 프로젝트
+<br>
+
 ## 분석 목적
 ### 1. 지역별 가구 특성과 생활 폐기물 발생 양상의 상관관계 여부 확인
 ### 2. 상관이 있다면 그 정도를 상관계수 및 그 신뢰성(p-value)로 확인
 <br><br>
 
 ## 구성도
-![image](https://github.com/addinedu-amr-4th/eda-repo-8/assets/86283716/81162e0b-479b-482b-afc8-537be77bc4b5)
+<p align="center">
+  <img src="https://github.com/addinedu-amr-4th/eda-repo-8/assets/86283716/81162e0b-479b-482b-afc8-537be77bc4b5)"/>
+</p>
 
 ## ER Diagram
 ![image](https://github.com/YunOh21/eda_project/assets/86283716/980fba7a-ce66-4711-abcb-2de25cbb5ecd)
