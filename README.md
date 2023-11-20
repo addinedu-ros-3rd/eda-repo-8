@@ -16,10 +16,10 @@
 
 ## 구성도
 <p align="center">
-  <img src="https://github.com/addinedu-amr-4th/eda-repo-8/assets/86283716/81162e0b-479b-482b-afc8-537be77bc4b5)"/>
+  <img src="https://github.com/addinedu-ros-3rd/eda-repo-8/assets/86283716/4107a843-4d48-4fd7-a50b-866b84db78cd"/>
 </p>
 
-## ER Diagram
+## 지역별 폐기물 데이터 구조
 ![image](https://github.com/YunOh21/eda_project/assets/86283716/980fba7a-ce66-4711-abcb-2de25cbb5ecd)
 
 ## 데이터 전처리: pandas
